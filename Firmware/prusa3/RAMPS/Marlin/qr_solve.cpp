@@ -1929,3 +1929,10 @@ double *qr_solve ( int m, int n, double a[], double b[] )
 
 #endif
 
+
+
+
+
+
+
+
