@@ -482,3 +482,10 @@ class SdBaseFile {
 #endif  // SdBaseFile_h
 #endif
 
+
+
+
+
+
+
+

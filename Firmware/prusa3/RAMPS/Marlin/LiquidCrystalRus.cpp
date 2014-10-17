@@ -388,3 +388,10 @@ uint8_t LiquidCrystalRus::readNbits(uint8_t n) {
 }
 
 
+
+
+
+
+
+
+

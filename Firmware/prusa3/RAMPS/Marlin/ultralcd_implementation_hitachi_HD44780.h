@@ -783,3 +783,10 @@ static uint8_t lcd_implementation_read_slow_buttons()
 
 #endif//ULTRA_LCD_IMPLEMENTATION_HITACHI_HD44780_H
 
+
+
+
+
+
+
+
