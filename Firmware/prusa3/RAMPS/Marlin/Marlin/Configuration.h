@@ -492,7 +492,7 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 
 // default settings
 
-#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,4000,800}  // default steps per unit for Ultimaker
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {80,80,4000,750}  // default steps per unit for Ultimaker
 #define DEFAULT_MAX_FEEDRATE          {500, 500, 3, 30}    // (mm/sec)
 #define DEFAULT_MAX_ACCELERATION      {9000,9000,100,10000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for Skeinforge 40+, for older versions raise them a lot.
 
@@ -777,7 +777,9 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
  * 301 - Rambo  - uses Analog input 3
  * Note may require analog pins to be defined for different motherboards
  **********************************************************************/
-#define FILAMENT_SENSOR
+// Uncomment below to enable
+//#define FILAMENT_SENSOR
+
 #define FILAMENT_SENSOR_EXTRUDER_NUM	0  //The number of the extruder that has the filament sensor (0,1,2)
 #define MEASUREMENT_DELAY_CM			14  //measurement delay in cm.  This is the distance from filament sensor to middle of barrel
 
