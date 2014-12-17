@@ -492,7 +492,11 @@ const bool Z_MAX_ENDSTOP_INVERTING = true; // set to true to invert the logic of
 
 // default settings
 
+<<<<<<< HEAD
 #define DEFAULT_AXIS_STEPS_PER_UNIT   {80.20,80.20,4020,750}  // default steps per unit for Ultimaker
+=======
+#define DEFAULT_AXIS_STEPS_PER_UNIT   {80.80,80.80,4020,750}  // default steps per unit for Ultimaker
+>>>>>>> 30c6b9d62e61b9c4e73f4b8b3dfa2eb29f2eedf4
 #define DEFAULT_MAX_FEEDRATE          {500, 500, 3, 30}    // (mm/sec)
 #define DEFAULT_MAX_ACCELERATION      {9000,9000,100,10000}    // X, Y, Z, E maximum start speed for accelerated moves. E default values are good for Skeinforge 40+, for older versions raise them a lot.
 
