@@ -1,14 +1,14 @@
 PrusaI3 Moebyus Machines
 =======
 Este repositorio contiene todos los ficheros para la PrusaI3 de Moebyus Machines.
-Para descargar los ficheros utiliza el boton de ''Download ZIP'' a la derecha de la página.
+Para descargar los ficheros utiliza el botón de ''Download ZIP'' a la derecha de la página.
 
-En las diferentes carpetas encontraremos los ficheros para la impresora:
+En las diferentes carpetas se encuentran los ficheros para la impresora:
 
--En la carpeta ''Piezas'' podemos estan los ficheros ''STL'' de las piezas
+-En la carpeta ''Piezas'' están los ficheros ''STL'' de las piezas.
 
--En las carpeta ''Firmware'' tenemos los firmwares para las maquinas
+-En la carpeta ''Firmware'' tenemos los firmwares para las máquinas.
 
--En la carpeta ''PerfilesSlicer'' tenemos los ficheros para configurar cura/slic3r para nuestra maquina.
+-En la carpeta ''PerfilesSlicer'' encuentras los ficheros para configurar cura/slic3r para nuestra máquina.
 
--En la carpeta de ''Documentación'' tenemos las guias de montaje
+-En la carpeta de ''Documentación'' se ubican las guías de montaje.
