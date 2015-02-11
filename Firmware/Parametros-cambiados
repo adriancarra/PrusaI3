@@ -1,3 +1,14 @@
+
+
+Archivo para llevar el control de los parametros cambiados en el firmware.
+En la carpeta firmware esta el firmware ya configurado con estos parametros.
+
+
+
+
+
+
+
 #define STRING_CONFIG_H_AUTHOR "(Javi, javier@moebyus.com)" // Who made the changes.
 #define MOTHERBOARD 33
 #define CUSTOM_MENDEL_NAME "PrusaI3MM"
